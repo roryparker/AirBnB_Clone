@@ -1,2 +1,1 @@
-# AirBnB_Clone
-This is an AirBnB Clone based on ReactJS
+# This is an AirBnB Clone based on ReactJS
